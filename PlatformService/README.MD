@@ -17,12 +17,19 @@ Microsoft.EntityFrameworkCore.SqlServer
 
 2 - Coding
 
-Models
+Adding Models
 
 Add DbContext
 
 in Program.cs, 
 add AddDbContext to services
 and
-UseInMemoryDatabase
+use UseInMemoryDatabase
 
+3 - Create PlatformRepo Interface and its implementation
+
+4 - Seeding example data to test
+
+5 - DTO: Data Transfer Object
+    Result: Data Privacy
+            Contractual Coupling
