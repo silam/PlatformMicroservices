@@ -10,12 +10,12 @@ dotnet add package Microsoft.EntityFrameworkCore
 dotnet add package Microsoft.EntityFrameworkCore.Design
 
 
-Microsoft.EntityFrameworkCore.InMemory
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
 
-Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 
 
-2 - Coding
+2 - Add Models and Context
 
 Adding Models
 
@@ -33,3 +33,12 @@ use UseInMemoryDatabase
 5 - DTO: Data Transfer Object
     Result: Data Privacy
             Contractual Coupling
+
+    Create ReadDTO and CreateDTO
+
+6 - Add AutoMapper into Services
+
+7 - Create PlatformProfiles
+
+
+
