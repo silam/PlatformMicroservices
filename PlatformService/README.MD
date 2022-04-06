@@ -40,5 +40,8 @@ use UseInMemoryDatabase
 
 7 - Create PlatformProfiles
 
+8 - Platformcontroller, 
+    Getallplatform and getplatformbyid
+
 
 
